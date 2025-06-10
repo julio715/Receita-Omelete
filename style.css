@@ -144,6 +144,10 @@ margin-bottom: 32px;
 
 }
 
+.modo li::marker{
+color: #854632;
+font-weight: 700;
+}
 
 
 
